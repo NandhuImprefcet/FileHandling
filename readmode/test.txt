@@ -1,0 +1,6 @@
+
+Hi this is a new line
+ the text file.
+this is the second line in the text file.
+this is the third line in the text file.
+this is the fourth line in the text file.Adding a line in it
