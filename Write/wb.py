@@ -1,0 +1,5 @@
+f=open('test.txt','wb')
+f.write(b'this is the first line in it\r\nthis shall be the second line if it works out in the "\n" method')
+f.seek(0)
+f.write(b'hi')
+f.seek(0)
